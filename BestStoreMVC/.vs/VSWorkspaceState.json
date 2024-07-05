@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MeuCrud",
+    "\\MeuCrud\\Views",
+    "\\MeuCrud\\Views\\Home",
+    "\\MeuCrud\\Views\\Products",
+    "\\MeuCrud\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MeuCrud\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
